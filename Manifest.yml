@@ -1,0 +1,5 @@
+---
+applications:
+- name: demo1
+  memory: 1024M
+  random-route: true
